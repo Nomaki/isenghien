@@ -1,0 +1,12 @@
+<nav class="columns sixteen">
+  <ul id="main-nav-bar" class="inline" data-hook>
+    <li id="home-link" data-hook><%= link_to t(:home), spree.more_content_path %></li>
+    <li data-hook><%= link_to "Boutique", spree.products_path %></li>
+    <li data-hook><%= link_to "Livre d'or", spree.gold_content_path %></li>
+    <li data-hook><%= link_to "Calendrier des ventes", spree.calendar_content_path %></li>
+    <li data-hook><%= link_to "Blog", spree.sell_content_path %></li>
+    <li data-hook><%= link_to "Partenaires", spree.calendar_content_path %></li>
+    <li class="search-li"><%= render :partial => 'spree/shared/search' %></li>
+
+  </ul>
+</nav>

@@ -1,0 +1,59 @@
+<footer id="footer" class="sixteen columns" data-hook>
+
+
+      <div class="transmit_by">
+        <h3>Partager sur les réseaux sociaux</h3>
+  <span class="facebook_share">
+    <a class="button" onclick="share_button_facebook('', '', '', '', '','<%= "http://isenghien.fr/self.close.html" %>'); return false;">
+      <i class="facebook_f">&nbsp;</i>partager sur facebook
+    </a>
+  </span>
+  <span class="twitter_share">
+    <a class="button" href="https://twitter.com/share?related=Nomakirom&text=http://www.isenghien.fr&url=none" target="_blank">
+      <i class="twitter_f">&nbsp;</i>partager sur twitter
+    </a>
+  </span>
+      </div>
+
+  <script type="text/javascript">
+    $(function(){
+        //Share button for facebook
+        function share_button_facebook(app_id, link, name, description, picture_link, callback_uri){
+
+            var callback_page = ""
+
+            if(callback_uri != undefined){
+                callback_page = callback_uri;
+            }
+            else {
+                callback_page = link;
+            }
+
+            // calling the API ...
+            var obj = {
+                app_id: app_id,
+                method: 'feed',
+                link: 'http://' + link,
+                picture: picture_link,
+                name: name,
+                description: description,
+                redirect_uri: callback_page
+            };
+
+            function callback(response) {
+                if (response && response.post_id) {
+                    //alert('Post was published.');
+                } else {
+                    //alert('Post was not published.');
+                }
+            }
+
+            FB.ui(obj, callback);
+        }
+    })
+  </script>
+  <div id="footer-left" class="columns alpha eight" data-hook>
+    <p>© 2013 Valérie CORDONNIER – Isenghien.fr.</p>
+  </div>
+  <div id="footer-right" class="columns omega eight" data-hook></div>
+</footer>

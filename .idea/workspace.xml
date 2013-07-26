@@ -8,10 +8,10 @@
     <file path="/fr.yml" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1366447180464" ignored="false" />
     <file path="/spree_application.html.erb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1366448910870" ignored="false" />
     <file path="/_main_nav_bar.html.erb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1372356114238" ignored="false" />
-    <file path="/routes.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1372355779524" ignored="false" />
+    <file path="/routes.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1374836803868" ignored="false" />
     <file path="/content_controller.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1366450195047" ignored="false" />
     <file path="/more.html.erb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1372273806153" ignored="false" />
-    <file path="/custom_content_controller.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1372347175229" ignored="false" />
+    <file path="/custom_content_controller.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1374837047020" ignored="false" />
     <file path="/custom.css" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1372347546896" ignored="false" />
     <file path="/_nav_bar.html.erb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367417328271" ignored="false" />
     <file path="/_header.html.erb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367417847006" ignored="false" />
@@ -261,19 +261,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom_content_controller.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/custom_content_controller.rb">
+      <file leaf-file-name="custom_content_controller.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/controllers/spree/custom_content_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="10" selection-start="105" selection-end="105" vertical-scroll-proportion="0.0">
+            <state line="0" column="13" selection-start="13" selection-end="13" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="spree.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="spree.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/initializers/spree.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="31" selection-start="479" selection-end="479" vertical-scroll-proportion="0.22354695">
+            <state line="10" column="31" selection-start="479" selection-end="479" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -323,7 +323,7 @@
         </entry>
       </file>
       <file leaf-file-name="gold.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/custom_content/gold.html.erb">
+        <entry file="file://$PROJECT_DIR$/app/views/spree/custom_content/gold.html.erb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="81" column="124" selection-start="2911" selection-end="2911" vertical-scroll-proportion="0.0">
               <folding />
@@ -334,7 +334,7 @@
       <file leaf-file-name="routes.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/routes.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="22" selection-start="773" selection-end="780" vertical-scroll-proportion="0.0">
+            <state line="19" column="40" selection-start="840" selection-end="840" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -357,15 +357,15 @@
         <option value="$PROJECT_DIR$/app/views/spree/shared/_header.html.erb" />
         <option value="$PROJECT_DIR$/config/locales/fr.yml" />
         <option value="$PROJECT_DIR$/app/views/spree/shared/_products.html.erb" />
-        <option value="$PROJECT_DIR$/app/controllers/custom_content_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/custom_content/sell.html.erb" />
         <option value="$PROJECT_DIR$/app/views/custom_content/gold.html.erb" />
-        <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/views/spree/shared/_main_nav_bar.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css.scss" />
         <option value="$PROJECT_DIR$/config/environments/production.rb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/store/custom.css" />
         <option value="$PROJECT_DIR$/config/initializers/spree.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/custom_content_controller.rb" />
+        <option value="$PROJECT_DIR$/config/routes.rb" />
       </list>
     </option>
   </component>
@@ -500,6 +500,28 @@
               <option name="myItemId" value="views" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spree" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="isenghien" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="isenghien" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -530,6 +552,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="isenghien" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="isenghien" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spree" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -639,6 +683,8 @@
       <recent name="$PROJECT_DIR$/app/views/custom_content" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/views/spree" />
+      <recent name="$PROJECT_DIR$/app/controllers/spree" />
       <recent name="$PROJECT_DIR$/app/assets/images/admin/bg" />
     </key>
   </component>
@@ -930,13 +976,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="832" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998565" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31707317" sideWeight="0.6707483" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31707317" sideWeight="0.6707483" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1023,30 +1069,23 @@
         <state line="3" column="43" selection-start="208" selection-end="208" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/custom_content/more.html.erb">
+    <entry file="file://$PROJECT_DIR$/app/views/spree/custom_content/more.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/custom_content/sell.html.erb">
+    <entry file="file://$PROJECT_DIR$/app/views/spree/custom_content/sell.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="10" selection-start="29" selection-end="29" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/custom_content/gold.html.erb">
+    <entry file="file://$PROJECT_DIR$/app/views/spree/custom_content/gold.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="81" column="124" selection-start="2911" selection-end="2911" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/routes.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="22" selection-start="773" selection-end="780" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -1107,16 +1146,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/custom_content_controller.rb">
+    <entry file="file://$PROJECT_DIR$/config/initializers/spree.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="10" selection-start="105" selection-end="105" vertical-scroll-proportion="0.0">
+        <state line="10" column="31" selection-start="479" selection-end="479" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/initializers/spree.rb">
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="31" selection-start="479" selection-end="479" vertical-scroll-proportion="0.22354695">
+        <state line="19" column="40" selection-start="840" selection-end="840" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/spree/custom_content_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="13" selection-start="13" selection-end="13" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>

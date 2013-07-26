@@ -12,12 +12,14 @@ Isenghien::Application.routes.draw do
         
 
 
-  Spree::Core::Engine.routes.prepend do
+  Spree::Core::Engine.routes.draw do
     match "isenghien" => "custom_content#more", :as => "more_content"
     match "blog" => "custom_content#sell", :as => "sell_content"
     match "livre-d-or" => "custom_content#gold", :as => "gold_content"
     match "mes-copines" => "custom_content#calendar", :as => "calendar_content"
   end
+
+
 
           # The priority is based upon order of creation:
   # first created -> highest priority.

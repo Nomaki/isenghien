@@ -6,7 +6,9 @@ gem 'rails', '3.2.11'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 gem 'sqlite3'
-
+#gem 'activerecord-mysql2-adapter'
+gem 'mysql2'
+gem 'yaml_db'
 
 # Gems used only for assets and not required
 # in production environments by default.

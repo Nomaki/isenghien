@@ -138,6 +138,7 @@ GEM
       json
     multi_json (1.7.2)
     multi_xml (0.5.3)
+    mysql2 (0.3.13)
     nokogiri (1.5.9)
     nori (1.1.5)
     orm_adapter (0.4.0)
@@ -264,6 +265,7 @@ GEM
     wasabi (2.5.1)
       httpi (~> 1.0)
       nokogiri (>= 1.4.0)
+    yaml_db (0.2.3)
 
 PLATFORMS
   ruby
@@ -271,6 +273,7 @@ PLATFORMS
 DEPENDENCIES
   coffee-rails (~> 3.2.1)
   jquery-rails
+  mysql2
   rails (= 3.2.11)
   sass-rails (~> 3.2.3)
   spree
@@ -279,3 +282,4 @@ DEPENDENCIES
   spree_i18n!
   sqlite3
   uglifier (>= 1.0.3)
+  yaml_db

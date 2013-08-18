@@ -8,22 +8,22 @@
     <file path="/fr.yml" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1366447180464" ignored="false" />
     <file path="/spree_application.html.erb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1366448910870" ignored="false" />
     <file path="/_main_nav_bar.html.erb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1372356114238" ignored="false" />
-    <file path="/routes.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1374836803868" ignored="false" />
+    <file path="/routes.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375619257647" ignored="false" />
     <file path="/content_controller.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1366450195047" ignored="false" />
     <file path="/more.html.erb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1372273806153" ignored="false" />
     <file path="/custom_content_controller.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1374837047020" ignored="false" />
     <file path="/custom.css" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1372347546896" ignored="false" />
     <file path="/_nav_bar.html.erb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367417328271" ignored="false" />
     <file path="/_header.html.erb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367417847006" ignored="false" />
-    <file path="/dummy.xml" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1372347672752" ignored="false" />
+    <file path="/dummy.xml" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375186510431" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/config/initializers/action_controller.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1369314818997" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/app/controllers/content_controller.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367938304520" ignored="false" />
-    <file path="$PROJECT_DIR$/../crezeo-networks/app/helpers/application_helper.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1372341530976" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/app/helpers/application_helper.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375186570490" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/app/controllers/dashboard_controller.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1369314818997" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/app/controllers/activities_controller.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367938304520" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/app/views/layouts/main_template.html.erb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367908328082" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/app/helpers/crezeo_themes_helper.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1369314856553" ignored="false" />
-    <file path="$PROJECT_DIR$/../crezeo-networks/app/controllers/application_controller.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367938304520" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/app/controllers/application_controller.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375186570490" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/app/controllers/offers_controller.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1368434660824" ignored="false" />
     <file path="/index.hbs" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1368431846156" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/public/themes/default/templates/offers/index.hbs" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1368431848442" ignored="false" />
@@ -37,12 +37,12 @@
     <file path="/main_template.hbs" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367909998903" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/public/themes/default/templates/dashboard/index.hbs" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367912534440" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/public/themes/default/templates/dashboard/content_stream.hbs" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367912694466" ignored="false" />
-    <file path="/a.dummy" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1372340668905" ignored="false" />
+    <file path="/a.dummy" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375263441672" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/app/views/institutions/index.html.erb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1368449875252" ignored="false" />
     <file path="/posts_controller.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367913961123" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/app/controllers/posts_controller.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1369314818997" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/app/views/settings/_tags.html.erb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367914727914" ignored="false" />
-    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/dashboards.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367938304520" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/dashboards.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375186570494" ignored="false" />
     <file path="/dashboards.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367916087220" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/Gemfile" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1369314818997" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/config/initializers/active_admin.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367943115075" ignored="false" />
@@ -84,46 +84,46 @@
     <file path="$PROJECT_DIR$/../crezeo-networks/config/environments/production.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367938304520" ignored="false" />
     <file path="/production.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1374076403888" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/config/environments/test.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367938304520" ignored="false" />
-    <file path="$PROJECT_DIR$/../crezeo-networks/public/javascripts/loader.json" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367934636943" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/public/javascripts/loader.json" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375256967995" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/public/stylesheets/jquery.fileupload-ui.scss" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367935146716" ignored="false" />
     <file path="/jquery.fileupload-ui.scss" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367935145087" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/public/stylesheets/jquery.fileupload-ui.css" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367935250739" ignored="false" />
-    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/institutions.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367937458690" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/institutions.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375186570494" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/app/controllers/searches_controller.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1369324792755" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/manage_my_networks.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367937458690" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/public/assets/application-global-3.css" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367937458690" ignored="false" />
-    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/merge.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367937458693" ignored="false" />
-    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/merge_choices.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367937458693" ignored="false" />
-    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/news_sources.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367937458693" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/merge.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375186570494" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/merge_choices.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375186570494" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/news_sources.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375186570494" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/app/controllers/teasing_users_controller.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1368453901968" ignored="false" />
-    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/offer_packs.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367937458693" ignored="false" />
-    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/offers.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367937458693" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/offer_packs.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375186570495" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/offers.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375186570495" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/public/assets/active_admin.js" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367938304520" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/public/assets/manifest.yml" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367937458693" ignored="false" />
-    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/property_sources.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367937458693" ignored="false" />
-    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/tags.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367937458693" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/property_sources.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375186570490" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/tags.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375186570490" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/public/assets/application-global-1.css" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367937458693" ignored="false" />
-    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/user_types.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367937458693" ignored="false" />
-    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/users.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367937458693" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/user_types.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375186570490" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/users.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375186570490" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/app/controllers/imported_contacts_controller.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367938304520" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/public/assets/application-global-5.css" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367937458693" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/app/controllers/manage_offer_packs_controller.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367938304520" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/app/controllers/manage_offers_controller.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367938304520" ignored="false" />
-    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/adcampaigns.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367937458693" ignored="false" />
-    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/cartridges.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367937458693" ignored="false" />
-    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/communities.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367937458693" ignored="false" />
-    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/contextual_help_settings.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367937458694" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/adcampaigns.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375186570490" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/cartridges.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375186570490" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/communities.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375186570490" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/contextual_help_settings.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375186570490" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/public/assets/tinymce.js" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367937458694" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/crezeo_network_disables.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367937458694" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/crezeo_network_domains.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367937458694" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/crezeo_network_homepages.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367937458694" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/crezeo_network_presentation_explains.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367937458694" ignored="false" />
-    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/crezeo_network_site_blogs.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367937458694" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/crezeo_network_site_blogs.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375186570490" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/crezeo_network_presentation_icons.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367937458694" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/crezeo_network_presentations.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367937458694" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/crezeo_network_site_details.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367937458694" ignored="false" />
-    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/crezeo_network_site_terms.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367937458694" ignored="false" />
-    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/crezeo_network_sites.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367937458694" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/crezeo_network_site_terms.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375186570490" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/crezeo_network_sites.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375186570490" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/crezeo_network_social_facebooks.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367937458694" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/config/environment.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367938304520" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/crezeo_network_social_googles.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367937458694" ignored="false" />
@@ -133,8 +133,8 @@
     <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/crezeo_network_temporaries.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367937458694" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/crezeo_network_temporary_steps.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367937458694" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/app/controllers/recommendations_controller.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367938304520" ignored="false" />
-    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/email_templates.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367937458694" ignored="false" />
-    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/file_imports.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367937458694" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/email_templates.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375186570494" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/file_imports.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375186570494" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/config/initializers/event_machine.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367937990373" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/public/themes/default/stylesheets/global-2.css" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1368430350299" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/db/schema.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1368428162244" ignored="false" />
@@ -143,7 +143,7 @@
     <file path="/crezeo.css" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1368430742692" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/public/themes/default/templates/shared/breadcrumbs.hbs" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1368448910157" ignored="false" />
     <file path="/breadcrumbs.hbs" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1368448908377" ignored="false" />
-    <file path="$PROJECT_DIR$/../crezeo-networks/lib/breadcrumbs.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1368451104457" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/lib/breadcrumbs.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375186570494" ignored="false" />
     <file path="/breadcrumbs.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1368448677088" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/app/views/shared/_breadcrumbs.html.erb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1368447824367" ignored="false" />
     <file path="/_breadcrumbs.html.erb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1368432361439" ignored="false" />
@@ -160,7 +160,7 @@
     <file path="$PROJECT_DIR$/../crezeo-networks/public/themes/temporary/stylesheets/loader.json" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1368452937342" ignored="false" />
     <file path="/_products.html.erb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1369314596902" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/public/themes/default/templates/searches/index.hbs" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1369314818997" ignored="false" />
-    <file path="$PROJECT_DIR$/../crezeo-networks/config/routes.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1372237411483" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/config/routes.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375186570490" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/public/javascripts/custom/search.js" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1369314818997" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/db/migrate/20130521095900_add_menu_order_for_crezeo_network_site.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1369314818997" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/app/views/dashboard/get_activity.js.erb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1369314818997" ignored="false" />
@@ -220,6 +220,69 @@
     <file path="/z_extended_string.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1372341223854" ignored="false" />
     <file path="/gold.html.erb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1372348135024" ignored="false" />
     <file path="/spree.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1374836111823" ignored="false" />
+    <file path="$USER_HOME$/Dropbox/Designs ACF/ACF - Design 3/css/bootstrap-overrides.css" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375172579914" ignored="false" />
+    <file path="$USER_HOME$/Dropbox/Designs ACF/ACF - Design 3/css/bootstrap-responsive.css" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1374849384341" ignored="false" />
+    <file path="/bootstrap-responsive.css" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1374847959413" ignored="false" />
+    <file path="$USER_HOME$/Dropbox/Designs ACF/ACF - Design 3/views/contents/articles.hbs" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375173002759" ignored="false" />
+    <file path="/articles.hbs" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375172991138" ignored="false" />
+    <file path="$USER_HOME$/Dropbox/Designs ACF/ACF - Design 3/views/posts/widgets/left_picture_title_text.hbs" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1374849434544" ignored="false" />
+    <file path="$USER_HOME$/Dropbox/Designs ACF/ACF - Design 3/views/posts/widgets/full_text.hbs" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1374849611384" ignored="false" />
+    <file path="/full_text.hbs" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1374849611384" ignored="false" />
+    <file path="$USER_HOME$/Dropbox/Designs ACF/ACF - Design 3/views/posts/widgets/three_pictures.hbs" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1374849683965" ignored="false" />
+    <file path="$USER_HOME$/Dropbox/Designs ACF/ACF - Design 3/views/posts/widgets/title_text.hbs" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1374849706014" ignored="false" />
+    <file path="$USER_HOME$/Dropbox/Designs ACF/ACF - Design 3/json/handlebars_partials.json" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1374851299370" ignored="false" />
+    <file path="$USER_HOME$/Dropbox/Designs ACF/ACF - Design 3/js/handlebars_helpers.js" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1374849931533" ignored="false" />
+    <file path="$USER_HOME$/Dropbox/Designs ACF/ACF - Design 3/views/posts_widgets/two_pictures.hbs" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375082423813" ignored="false" />
+    <file path="$USER_HOME$/Dropbox/Designs ACF/ACF - Design 3/views/posts_widgets/one_picture.hbs" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375082406469" ignored="false" />
+    <file path="/one_picture.hbs" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1374851079343" ignored="false" />
+    <file path="$USER_HOME$/Dropbox/Designs ACF/ACF - Design 3/views/posts_widgets/right_picture_title_text.hbs" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375082410646" ignored="false" />
+    <file path="/right_picture_title_text.hbs" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1374852083876" ignored="false" />
+    <file path="$USER_HOME$/Dropbox/Designs ACF/ACF - Design 3/views/posts_widgets/left_picture_title_text.hbs" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375082364913" ignored="false" />
+    <file path="/left_picture_title_text.hbs" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375082362525" ignored="false" />
+    <file path="$USER_HOME$/Dropbox/Designs ACF/ACF - Design 3/views/posts_widgets/full_text.hbs" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375082402402" ignored="false" />
+    <file path="$USER_HOME$/Dropbox/Designs ACF/ACF - Design 3/views/posts_widgets/three_pictures.hbs" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375082414617" ignored="false" />
+    <file path="$USER_HOME$/Dropbox/Designs ACF/ACF - Design 3/views/posts_widgets/title_text.hbs" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375082419821" ignored="false" />
+    <file path="/bootstrap-overrides.css" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375172556727" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/app/views/posts/new.html.erb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375188360688" ignored="false" />
+    <file path="/new.html.erb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375187577028" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/app/models/order.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375186570490" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/promotional_codes.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375186570490" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/questions.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375186570490" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/rules.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375186570490" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/classified_field_sets.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375186570490" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/media_files.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375186570490" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/classifieds.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375186570490" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/classified_option_types.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375186570490" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/magazines.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375186570490" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/crezeo_network_site_module_details.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375186570490" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/orders.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375186570490" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/invoices.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375186570490" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/contest_entries.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375186570490" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/admin_contextual_help_content.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375186570490" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/emails.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375186570494" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/classified_categories.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375186570494" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/public/themes/default/templates/layouts/connected_navigation.hbs" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375186570495" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/Gemfile.lock" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375186613327" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/public/themes/default/templates/posts/new.hbs" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375193393045" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/public/themes/acf/templates/content/index.hbs" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375192063239" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/public/themes/acf/templates/layouts/layout.hbs" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375192147815" ignored="false" />
+    <file path="/layout.hbs" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375192144449" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/public/themes/default/stylesheets/articles.hbs" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375193652165" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/public/themes/default/stylesheets/loader.json" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375196922519" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/public/themes/acf/stylesheets/loader.json" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375194046169" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/public/themes/acf/stylesheets/bootstrap-overrides.css" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375193943676" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/public/themes/acf/stylesheets/articles.css" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375262837028" ignored="false" />
+    <file path="/articles.css" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375262834939" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/public/themes/default/stylesheets/articles.css" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375196342602" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/public/themes/default/templates/posts_widgets/full_text.hbs" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375255518570" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/public/themes/acf/templates/layouts/head.hbs" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375258448762" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/public/javascripts/libs/bootstrap-wysihtml5/wysihtml5.js" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375257644575" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/public/stylesheets/loader.json" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375258192240" ignored="false" />
+    <file path="/head.hbs" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375258422610" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/public/javascripts/libs/bootstrap-wysihtml5/bootstrap-wysihtml5-0.0.2.js" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375263954667" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/public/javascripts/libs/bootstrap-wysihtml5/bootstrap-wysihtml5-0.0.2.min.js" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375261091116" ignored="false" />
+    <file path="/bootstrap-wysihtml5-0.0.2.js" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375263808717" ignored="false" />
+    <file path="/database.yml" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1376815319743" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -254,17 +317,24 @@
         <entry file="file://$PROJECT_DIR$/app/assets/javascripts/admin/all.js">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom_content_controller.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="custom_content_controller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/spree/custom_content_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="13" selection-start="13" selection-end="13" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="database.yml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/database.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="18" selection-start="653" selection-end="653" vertical-scroll-proportion="0.6149341">
               <folding />
             </state>
           </provider>
@@ -322,19 +392,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gold.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/spree/custom_content/gold.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="81" column="124" selection-start="2911" selection-end="2911" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="routes.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/routes.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="40" selection-start="840" selection-end="840" vertical-scroll-proportion="0.0">
+            <state line="22" column="41" selection-start="849" selection-end="849" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -350,8 +411,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/controllers/content_controller.rb" />
-        <option value="$PROJECT_DIR$/app/views/spree/shared/_search.html.erb" />
         <option value="$PROJECT_DIR$/app/views/spree/shared/_nav_bar.html.erb" />
         <option value="$PROJECT_DIR$/config/application.rb" />
         <option value="$PROJECT_DIR$/app/views/spree/shared/_header.html.erb" />
@@ -365,14 +424,16 @@
         <option value="$PROJECT_DIR$/app/assets/stylesheets/store/custom.css" />
         <option value="$PROJECT_DIR$/config/initializers/spree.rb" />
         <option value="$PROJECT_DIR$/app/controllers/custom_content_controller.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/spree/custom_content_controller.rb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
+        <option value="$PROJECT_DIR$/config/database.yml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="1440" />
-    <option name="height" value="832" />
+    <option name="height" value="831" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -975,14 +1036,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="832" extended-state="6" />
-    <editor active="false" />
+    <frame x="0" y="22" width="1440" height="831" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998565" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31707317" sideWeight="0.6707483" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32711622" sideWeight="0.6707483" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1054,11 +1115,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/config/locales/fr.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="314" column="23" selection-start="10315" selection-end="10336" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/spree/shared/_products.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="26" column="32" selection-start="1283" selection-end="1283" vertical-scroll-proportion="0.0" />
@@ -1071,23 +1127,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/spree/custom_content/more.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/spree/custom_content/sell.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="10" selection-start="29" selection-end="29" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="1" column="10" selection-start="29" selection-end="29" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/spree/custom_content/gold.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="81" column="124" selection-start="2911" selection-end="2911" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="81" column="124" selection-start="2911" selection-end="2911" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/spree/shared/_main_nav_bar.html.erb">
@@ -1140,9 +1190,14 @@
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/admin/all.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/spree/custom_content_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1155,14 +1210,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="40" selection-start="840" selection-end="840" vertical-scroll-proportion="0.0">
+        <state line="22" column="41" selection-start="849" selection-end="849" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/spree/custom_content_controller.rb">
+    <entry file="file://$PROJECT_DIR$/config/database.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="13" selection-start="13" selection-end="13" vertical-scroll-proportion="0.0">
+        <state line="28" column="18" selection-start="653" selection-end="653" vertical-scroll-proportion="0.6149341">
           <folding />
         </state>
       </provider>

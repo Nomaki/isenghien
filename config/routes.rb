@@ -1,6 +1,6 @@
 Isenghien::Application.routes.draw do
 
-  root :to => 'custom_content#more'
+
 
 
   # This line mounts Spree's routes at the root of your application.
@@ -19,6 +19,8 @@ Isenghien::Application.routes.draw do
     match "mes-copines" => "custom_content#calendar", :as => "calendar_content"
   end
 
+
+  root :to => "spree::custom_content#more"
 
 
           # The priority is based upon order of creation:

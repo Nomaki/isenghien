@@ -23,11 +23,7 @@ test:
   timeout: 5000
 
 production:
-  adapter: mysql2
-  database: isenghien_production
-  username: root
-  password: oracle
-  encoding: utf8
-  socket: /tmp/mysql.sock
+  adapter: sqlite3
+  database: db/development.sqlite3
   pool: 5
   timeout: 5000

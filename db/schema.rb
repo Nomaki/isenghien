@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20130419183560) do
+ActiveRecord::Schema.define(:version => 20130825154959) do
 
   create_table "spree_activators", :force => true do |t|
     t.string   "description"
@@ -510,6 +510,9 @@ ActiveRecord::Schema.define(:version => 20130419183560) do
     t.text     "description"
     t.datetime "created_at",                       :null => false
     t.datetime "updated_at",                       :null => false
+    t.text     "meta_description"
+    t.text     "meta_keywords"
+    t.string   "meta_title"
   end
 
   add_index "spree_taxons", ["parent_id"], :name => "index_taxons_on_parent_id"

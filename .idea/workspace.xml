@@ -4,7 +4,7 @@
     <list default="true" id="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" name="Default" comment="" />
     <ignored path="isenghien.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/application.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367423682686" ignored="false" />
+    <file path="/application.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1377179710523" ignored="false" />
     <file path="/fr.yml" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1366447180464" ignored="false" />
     <file path="/spree_application.html.erb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1366448910870" ignored="false" />
     <file path="/_main_nav_bar.html.erb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1372356114238" ignored="false" />
@@ -16,9 +16,9 @@
     <file path="/_nav_bar.html.erb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367417328271" ignored="false" />
     <file path="/_header.html.erb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367417847006" ignored="false" />
     <file path="/dummy.xml" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375186510431" ignored="false" />
-    <file path="$PROJECT_DIR$/../crezeo-networks/config/initializers/action_controller.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1369314818997" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/config/initializers/action_controller.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1377421875955" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/app/controllers/content_controller.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367938304520" ignored="false" />
-    <file path="$PROJECT_DIR$/../crezeo-networks/app/helpers/application_helper.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375186570490" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/app/helpers/application_helper.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1377247000983" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/app/controllers/dashboard_controller.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1369314818997" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/app/controllers/activities_controller.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367938304520" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/app/views/layouts/main_template.html.erb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367908328082" ignored="false" />
@@ -32,19 +32,19 @@
     <file path="$USER_HOME$/.rvm/gems/ruby-2.0.0-p0/gems/activeadmin-0.4.4/lib/active_admin/dashboards/dashboard_controller.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367916720368" ignored="false" />
     <file path="/dashboard_controller.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367909513499" ignored="false" />
     <file path="/crezeo_themes_helper.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1368434845356" ignored="false" />
-    <file path="/action_controller.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1368455438428" ignored="false" />
+    <file path="/action_controller.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1377270524705" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/public/themes/default/templates/layouts/main_template.hbs" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367910000982" ignored="false" />
     <file path="/main_template.hbs" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367909998903" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/public/themes/default/templates/dashboard/index.hbs" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367912534440" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/public/themes/default/templates/dashboard/content_stream.hbs" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367912694466" ignored="false" />
-    <file path="/a.dummy" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375263441672" ignored="false" />
+    <file path="/a.dummy" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1377266283402" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/app/views/institutions/index.html.erb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1368449875252" ignored="false" />
     <file path="/posts_controller.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367913961123" ignored="false" />
-    <file path="$PROJECT_DIR$/../crezeo-networks/app/controllers/posts_controller.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1369314818997" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/app/controllers/posts_controller.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1377160286576" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/app/views/settings/_tags.html.erb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367914727914" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/dashboards.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375186570494" ignored="false" />
     <file path="/dashboards.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367916087220" ignored="false" />
-    <file path="$PROJECT_DIR$/../crezeo-networks/Gemfile" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1369314818997" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/Gemfile" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1377072480554" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/config/initializers/active_admin.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367943115075" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/public/stylesheets/active_admin_custom.css" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1368427881707" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/public/stylesheets/active_admin.css" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367917444588" ignored="false" />
@@ -52,14 +52,14 @@
     <file path="/active_admin.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367917788020" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/app/controllers/contacts_controller.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367938304520" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/app/controllers/profile_completion_controller.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367938304520" ignored="false" />
-    <file path="$PROJECT_DIR$/../crezeo-networks/app/models/user.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367918724131" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/app/models/user.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1377095197161" ignored="false" />
     <file path="/_master_form.html.erb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367924729495" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/app/views/institutions/_master_form.html.erb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367938304520" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/app/views/institutions/_form.html.erb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367938304520" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/app/views/shared/_wysiwyg_tools.html.erb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367938304520" ignored="false" />
     <file path="/_wysiwyg_tools.html.erb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367920135089" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/app/views/shared/_wysiwyg_tools_lite.html.erb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367929782294" ignored="false" />
-    <file path="$PROJECT_DIR$/../crezeo-networks/config/locales/crezeo.fr.yml" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1372340399527" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/config/locales/crezeo.fr.yml" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1377160286576" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/app/controllers/institutions_controller.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367925186284" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/public/themes/default/stylesheets/global-1.css" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1372326565848" ignored="false" />
     <file path="/global-1.css" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1368450900595" ignored="false" />
@@ -80,7 +80,7 @@
     <file path="/settings.json" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367932353711" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/config/environments/development.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367938304520" ignored="false" />
     <file path="/development.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367933865440" ignored="false" />
-    <file path="$PROJECT_DIR$/../crezeo-networks/config/application.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1368427881707" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/config/application.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1377179708907" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/config/environments/production.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367938304520" ignored="false" />
     <file path="/production.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1374076403888" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/config/environments/test.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367938304520" ignored="false" />
@@ -137,7 +137,7 @@
     <file path="$PROJECT_DIR$/../crezeo-networks/app/admin/file_imports.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375186570494" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/config/initializers/event_machine.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1367937990373" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/public/themes/default/stylesheets/global-2.css" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1368430350299" ignored="false" />
-    <file path="$PROJECT_DIR$/../crezeo-networks/db/schema.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1368428162244" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/db/schema.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1377247250299" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/app/views/media_files/_form.html.erb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1368428660168" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/app/assets/images/s/crezeo/crezeo.css" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1368430751274" ignored="false" />
     <file path="/crezeo.css" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1368430742692" ignored="false" />
@@ -160,12 +160,12 @@
     <file path="$PROJECT_DIR$/../crezeo-networks/public/themes/temporary/stylesheets/loader.json" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1368452937342" ignored="false" />
     <file path="/_products.html.erb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1369314596902" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/public/themes/default/templates/searches/index.hbs" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1369314818997" ignored="false" />
-    <file path="$PROJECT_DIR$/../crezeo-networks/config/routes.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375186570490" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/config/routes.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1377421875955" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/public/javascripts/custom/search.js" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1369314818997" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/db/migrate/20130521095900_add_menu_order_for_crezeo_network_site.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1369314818997" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/app/views/dashboard/get_activity.js.erb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1369314818997" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/app/views/searches/index.js.erb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1369314818997" ignored="false" />
-    <file path="$PROJECT_DIR$/../crezeo-networks/app/controllers/user_profiles_controller.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1369314818997" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/app/controllers/user_profiles_controller.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1377247000983" ignored="false" />
     <file path="/searches_controller.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1369323209072" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/app/models/qa/question.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1369324442221" ignored="false" />
     <file path="$PROJECT_DIR$/../crezeo-networks/log/newrelic_agent.log" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1372070972829" ignored="false" />
@@ -283,6 +283,44 @@
     <file path="$PROJECT_DIR$/../crezeo-networks/public/javascripts/libs/bootstrap-wysihtml5/bootstrap-wysihtml5-0.0.2.min.js" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375261091116" ignored="false" />
     <file path="/bootstrap-wysihtml5-0.0.2.js" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1375263808717" ignored="false" />
     <file path="/database.yml" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1376815319743" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/spec/behaviors/crezeo_moderable_behavior_spec.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1377272227611" ignored="false" />
+    <file path="/crezeo_moderable_behavior_spec.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1377176270072" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/db/migrate/20130821070401_create_moderations.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1377071315796" ignored="false" />
+    <file path="/20130821070401_create_moderations.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1377071316985" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/app/models/moderation.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1377072480554" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/app/models/post.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1377185395024" ignored="false" />
+    <file path="/post.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1377095342167" ignored="false" />
+    <file path="/a.js" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1377071199877" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/lib/acts_as_moderable.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1377078434728" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/app/models/post_draft.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1377185391315" ignored="false" />
+    <file path="/post_draft.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1377096720765" ignored="false" />
+    <file path="/post_base.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1377095686045" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/app/models/post_base.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1377094805561" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/db/migrate/_change_post_table_name_to_post_base.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1377093209062" ignored="false" />
+    <file path="/_change_post_table_name_to_post_base.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1377093152815" ignored="false" />
+    <file path="/user.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1377271992728" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/db/migrate/20130821155500_change_post_table_name_to_post_base.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1377094917758" ignored="false" />
+    <file path="/20130821155500_change_post_table_name_to_post_base.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1377094917432" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/db/migrate/20130821155600_add_fields_to_post_bases.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1377094883586" ignored="false" />
+    <file path="/20130821155600_add_fields_to_post_bases.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1377094902108" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/db/migrate/20130821155600_add_fields_to_post_structures.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1377096988274" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/app/models/post_structure.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1377247000983" ignored="false" />
+    <file path="/picture.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1377095692756" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/app/models/picture.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1377096025219" ignored="false" />
+    <file path="/20130821155600_add_fields_to_post_structures.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1377096988274" ignored="false" />
+    <file path="/acts_as_draftable.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1377267025729" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/lib/acts_as_draftable.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1377267339777" ignored="false" />
+    <file path="/post_structure.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1377242427910" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/spec/factories/user.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1377272217860" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/spec/spec_helper.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1377177442619" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/app/models/crezeo_widget_container.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1377247000983" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/app/models/news_article.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1377247000983" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/lib/acts_as_media_links.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1377247000983" ignored="false" />
+    <file path="/20130821123000_add_counter_cache_to_some_models_and_fix_archives.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1377247129443" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/db/migrate/20130821123000_add_counter_cache_to_some_models_and_fix_archives.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1377247128834" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/public/javascripts/ux/crezeo_content_choice.js" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1377421875955" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/public/javascripts/widgets/crezeo_widget.js" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1377421875955" ignored="false" />
+    <file path="$PROJECT_DIR$/../crezeo-networks/app/models/tag.rb" changelist="fd3d5a07-e2bd-486f-bf59-e864f7c3e580" time="1377421875955" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -304,37 +342,46 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="custom.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/store/custom.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="955" column="1" selection-start="25078" selection-end="25078" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="all.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/admin/all.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="custom_content_controller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/spree/custom_content_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="3" selection-start="148" selection-end="148" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="spree_application.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/spree/layouts/spree_application.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="7" selection-start="493" selection-end="493" vertical-scroll-proportion="-5.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_head.html.erb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/spree/shared/_head.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="4" selection-start="213" selection-end="213" vertical-scroll-proportion="0.09104704">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="20130825154959_add_meta_fields_to_spree_taxons.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/migrate/20130825154959_add_meta_fields_to_spree_taxons.rb">
+          <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="database.yml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/config/database.yml">
+      <file leaf-file-name="_header.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/spree/shared/_header.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="11" selection-start="647" selection-end="647" vertical-scroll-proportion="0.6368961">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
@@ -345,18 +392,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state line="10" column="31" selection-start="479" selection-end="479" vertical-scroll-proportion="0.0">
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_main_nav_bar.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/spree/shared/_main_nav_bar.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="650" selection-end="650" vertical-scroll-proportion="0.0">
-              <folding>
-                <marker date="1372356129000" expanded="true" signature="28:648" placeholder="..." />
-                <marker date="1372356129000" expanded="true" signature="78:641" placeholder="..." />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -386,7 +421,7 @@
       <file leaf-file-name="production.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="35" selection-start="472" selection-end="472" vertical-scroll-proportion="0.0">
+            <state line="4" column="29" selection-start="193" selection-end="193" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -411,7 +446,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/views/spree/shared/_nav_bar.html.erb" />
         <option value="$PROJECT_DIR$/config/application.rb" />
         <option value="$PROJECT_DIR$/app/views/spree/shared/_header.html.erb" />
         <option value="$PROJECT_DIR$/config/locales/fr.yml" />
@@ -424,9 +458,10 @@
         <option value="$PROJECT_DIR$/app/assets/stylesheets/store/custom.css" />
         <option value="$PROJECT_DIR$/config/initializers/spree.rb" />
         <option value="$PROJECT_DIR$/app/controllers/custom_content_controller.rb" />
-        <option value="$PROJECT_DIR$/app/controllers/spree/custom_content_controller.rb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/config/database.yml" />
+        <option value="$PROJECT_DIR$/app/controllers/spree/custom_content_controller.rb" />
+        <option value="$PROJECT_DIR$/app/views/spree/shared/_head.html.erb" />
       </list>
     </option>
   </component>
@@ -461,7 +496,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="RailsProjectView" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -490,6 +524,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="isenghien" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="isenghien" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="db" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -504,7 +552,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
+              <option name="myItemId" value="db" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="migrate" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -518,11 +570,19 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
+              <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="locales" />
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spree" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shared" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -536,11 +596,19 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
+              <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="initializers" />
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spree" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layouts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -635,100 +703,13 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="spree" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="isenghien" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="isenghien" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="stylesheets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="isenghien" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="isenghien" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javascripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="isenghien" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="isenghien" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javascripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="isenghien" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="isenghien" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="RailsProjectView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1043,7 +1024,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998565" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32711622" sideWeight="0.6707483" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33715925" sideWeight="0.67166215" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1052,7 +1033,7 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3292517" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32833788" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.329235" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -1115,44 +1096,49 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/views/spree/shared/_products.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="32" selection-start="1283" selection-end="1283" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/spree/shared/_header.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="43" selection-start="208" selection-end="208" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/spree/custom_content/more.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/spree/custom_content/sell.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="10" selection-start="29" selection-end="29" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/spree/custom_content/gold.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="81" column="124" selection-start="2911" selection-end="2911" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/spree/shared/_main_nav_bar.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="650" selection-end="650" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1372356129000" expanded="true" signature="28:648" placeholder="..." />
-            <marker date="1372356129000" expanded="true" signature="78:641" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/assets/store/all-b9c22364192aaad4e3b15cc1499fea8c.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/seeds.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/store/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="955" column="1" selection-start="25078" selection-end="25078" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/admin/all.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="0" selection-start="647" selection-end="647" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/application.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="51" selection-start="1447" selection-end="1447" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/initializers/spree.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="31" selection-start="479" selection-end="479" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
@@ -1175,35 +1161,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="35" selection-start="472" selection-end="472" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/store/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="955" column="1" selection-start="25078" selection-end="25078" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/admin/all.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/spree/custom_content_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/initializers/spree.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="31" selection-start="479" selection-end="479" vertical-scroll-proportion="0.0">
+        <state line="4" column="29" selection-start="193" selection-end="193" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -1215,9 +1173,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/database.yml">
+    <entry file="file://$PROJECT_DIR$/app/controllers/spree/custom_content_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="11" selection-start="647" selection-end="647" vertical-scroll-proportion="0.6368961">
+        <state line="20" column="3" selection-start="148" selection-end="148" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/spree/shared/_header.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/spree/layouts/spree_application.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="7" selection-start="493" selection-end="493" vertical-scroll-proportion="-5.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20130825154959_add_meta_fields_to_spree_taxons.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/spree/shared/_head.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="4" selection-start="213" selection-end="213" vertical-scroll-proportion="0.09104704">
           <folding />
         </state>
       </provider>

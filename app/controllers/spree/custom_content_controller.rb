@@ -17,5 +17,14 @@ class Spree::CustomContentController < Spree::StoreController
 
   end
 
+  def legals
+
+  end
+
+  def sell_conditions
+
+  end
+
+
 
 end

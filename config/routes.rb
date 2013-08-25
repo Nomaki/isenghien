@@ -17,7 +17,12 @@ Isenghien::Application.routes.draw do
     match "blog" => "custom_content#sell", :as => "sell_content"
     match "livre-d-or" => "custom_content#gold", :as => "gold_content"
     match "mes-copines" => "custom_content#calendar", :as => "calendar_content"
+    match "mentions-legales" => "custom_content#legals", :as => "legals"
+    match "conditions-de-ventes" => "custom_content#sell_conditions", :as => "sell_conditions"
   end
+
+  match "mentions-legales" => "custom_content#legals", :as => "legals"
+  match "conditions-de-ventes" => "custom_content#sell_conditions", :as => "sell_conditions"
 
 
   root :to => "spree::custom_content#more"
